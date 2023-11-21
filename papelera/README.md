@@ -1,11 +1,11 @@
 # <h1> Papelera King </h1>
-<p>Este proyecto trata de una papelera comercial</p>>
+<p>Este proyecto trata de una papelera comercial</p>
 
 <h3>Tecnologías utilizadas</h3>
 
 <p>React js</p>
 <p>Node js</p>
-<p>Fireabse</p>
+<p>Firebase</p>
 
 # Getting Started with Create React App
 
