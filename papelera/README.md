@@ -1,3 +1,12 @@
+# <h1> Papelera King </h1>
+<p>Este proyecto trata de una papelera comercial</p>>
+
+<h3>Tecnologías utilizadas</h3>
+
+<p>React js</p>
+<p>Node js</p>
+<p>Fireabse</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
